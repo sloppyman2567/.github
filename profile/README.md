@@ -1,15 +1,10 @@
 # sloppyman2567 
 
-I'm a guy with no coding experience stress testing AI models to see what they can do. All my repos are written by AI models. Don't trust my code that is sloppy.
+I'm a guy with no coding experience using AI models to see what they can do in programming. All my repos are written by AI models (beside this one). Don't trust my code that is probably sloppy.
 
 ## [bifrost-emu](https://github.com/sloppyman2567/bifrost-emu) 
 
-An ARM64 Linux usermode emulator for x86-64 Linux. GLM 5.2 agent wrote it. I iterate on it constantly every day, and it's probably broken and buggy—that's why I'm called sloppyman2567.
+An Arm64 Linux usermode emulator for x86-64 Linux. GLM 5.2 (Z.ai) wrote it. I iterate on it constantly every day, and it probably has broken existing parts of it but i dont care.
+It does run musl static binaries but its pretty unstable for running anything else
 
-It actually runs ARM64 static binaries on x86-64 Linux though. Whether it works depends on when you try it and what the agent generated that day.
-
-**Real Talk:** Don't use this. It's in constant flux, probably has memory leaks, weird edge cases, all kinds of jank. Today's version might not even compile tomorrow. That's the whole point—stress testing what an AI agent can actually do when you just keep asking it to iterate and fix things.
-
----
-
-That's it. If you came here expecting production code, you're in the wrong place. This is just me and GLM 5.2 seeing how far we can push an ARM64 emulator that's perpetually sloppy.
+Dont use it. Its in constant iteration, and usually big update come out every few days or potentially a day or within the same day as a iteration depending on the scale. these iterations could break existing things, i dont recommnend you to try to fork nor do i recommend you to integrate my project into your project if you even bother to, but i hope to eventually make a stable software that is maybe reliable written entirely by AI agents. anyways thats it.
