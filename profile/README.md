@@ -1,8 +1,8 @@
-# sloppyman2567
+# sloppyman2567 
 
 I'm a guy with no coding experience stress testing AI models to see what they can do. All my repos are written by AI models. Don't trust my code that is sloppy.
 
-## bifrost-emu
+## [bifrost-emu](https://github.com/sloppyman2567/bifrost-emu) 
 
 An ARM64 Linux usermode emulator for x86-64 Linux. GLM 5.2 agent wrote it. I iterate on it constantly every day, and it's probably broken and buggy—that's why I'm called sloppyman2567.
 
