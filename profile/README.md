@@ -7,6 +7,7 @@ Eventually i decided to get the free claim offer for OpenAI's Plus subscription 
 
 I have 2 computers, one with Ryzen 7 5800X3D + Radeon RX 7600 8 GB + 32 GB DDR4 (mostly the Dev machine for Bifrost-emu) and one with Ryzen 5 9600X (5.68 GHz) + Radeon RX 9060 XT 16 GB + 32 GB DDR5. Both are using CachyOS. I may switch between them at times.
 
+also I like [Gentildonna](https://umamusu.wiki/Gentildonna) and [Orfevre](https://umamusu.wiki/Orfevre) from Uma Musume: Pretty Derby, they're my favorite umamusume
 
 [Official Youtube Channel](https://www.youtube.com/@12480we)
 
