@@ -9,6 +9,6 @@ I have 2 computers, one with Ryzen 7 5800X3D + Radeon RX 7600 8 GB + 32 GB DDR4 
 
 Also I like [Gentildonna](https://umamusu.wiki/Gentildonna) and [Orfevre](https://umamusu.wiki/Orfevre) from Uma Musume: Pretty Derby, they're my favorite umamusume. However [Jungle Pocket](https://umamusu.wiki/Jungle_Pocket) is my most favorite umamusume.
 
-[Official Youtube Channel](https://www.youtube.com/@12480we)
+[Official Youtube Channel](https://www.youtube.com/@NatsukiQDDLC)
 
 [Bifrost-emu site](https://sloppyman2567.github.io/bifrost-emu/)
